@@ -1,0 +1,7 @@
+#level
+0
+#radio posX posY wait direction reboundes 
+50 70 90 10 LEFT 0 false
+50 70 90 10 UP 0 false
+50 70 90 10 DOWN 0 false
+50 70 90 10 RIGHT 0 false
